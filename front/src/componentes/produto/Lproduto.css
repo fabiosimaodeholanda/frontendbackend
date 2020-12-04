@@ -1,0 +1,13 @@
+.section {
+    display: flex;
+}
+
+#produto{
+    display: flex; flex-wrap: wrap;
+}
+
+.box_produtos{
+    display: block;
+   
+}
+
